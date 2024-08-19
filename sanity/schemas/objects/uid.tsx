@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { defineType } from 'sanity'
-import { Box, Button, Flex, Text, TextInput } from '@sanity/ui'
 import { VscCheck, VscCopy } from 'react-icons/vsc'
+import { Box, Button, Flex, Text, TextInput } from '@sanity/ui'
 
 export default defineType({
 	name: 'uid',
