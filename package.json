@@ -14,6 +14,7 @@
 		"@next/third-parties": "^14.2.5",
 		"@portabletext/react": "^3.1.0",
 		"@portabletext/to-html": "^2.0.13",
+		"@sanity/client": "^6.21.3",
 		"@sanity/code-input": "^4.1.4",
 		"@sanity/dashboard": "^4.0.0",
 		"@sanity/image-url": "^1.0.2",
@@ -39,6 +40,7 @@
 		"sanity": "^3.54.0",
 		"sanity-plugin-dashboard-widget-vercel": "^2.0.1",
 		"shiki": "^1.13.0",
+		"stega": "link:@sanity/client/stega",
 		"styled-components": "^6.1.12",
 		"tailwind-merge": "^2.5.2",
 		"zustand": "^4.5.5"
